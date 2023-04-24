@@ -1,0 +1,12 @@
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\bin\Debug\net6.0\2DGameFramework.deps.json
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\bin\Debug\net6.0\2DGameFramework.dll
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\bin\Debug\net6.0\2DGameFramework.pdb
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.csproj.AssemblyReference.cache
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.AssemblyInfoInputs.cache
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.AssemblyInfo.cs
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.csproj.CoreCompileInputs.cache
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.dll
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\refint\2DGameFramework.dll
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\2DGameFramework.pdb
+C:\Users\AstaOvergaard-Sørens\source\repos\2DGameFramework\2DGameFramework\obj\Debug\net6.0\ref\2DGameFramework.dll

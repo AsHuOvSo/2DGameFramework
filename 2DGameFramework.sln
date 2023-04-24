@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DGameFramework", "2DGameFramework\2DGameFramework.csproj", "{CD9A4A26-C980-41E2-B4AF-42CE48693AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGameFrame", "TestGameFrame\TestGameFrame.csproj", "{113CE9BB-0FD4-496F-AB0D-F1F8E47FA882}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD9A4A26-C980-41E2-B4AF-42CE48693AA4} = {CD9A4A26-C980-41E2-B4AF-42CE48693AA4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9A4A26-C980-41E2-B4AF-42CE48693AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9A4A26-C980-41E2-B4AF-42CE48693AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9A4A26-C980-41E2-B4AF-42CE48693AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9A4A26-C980-41E2-B4AF-42CE48693AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113CE9BB-0FD4-496F-AB0D-F1F8E47FA882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113CE9BB-0FD4-496F-AB0D-F1F8E47FA882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113CE9BB-0FD4-496F-AB0D-F1F8E47FA882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113CE9BB-0FD4-496F-AB0D-F1F8E47FA882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F76114-4F35-40DC-B91E-3C2597A10139}
+	EndGlobalSection
+EndGlobal

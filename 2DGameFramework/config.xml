@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <WorldMaxX>400</WorldMaxX>
+  <WorldMaxY>200</WorldMaxY>
+</config>
